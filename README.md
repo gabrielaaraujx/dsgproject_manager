@@ -62,19 +62,15 @@ Este projeto foi desenvolvido para colocar em prática os seguintes tópicos:
 
 ## 🚀 Como rodar o projeto
 
-1. Certifique-se de ter o Dart SDK instalado: https://dart.dev/get-dart
+### 1. Certifique-se de ter o Dart SDK instalado: https://dart.dev/get-dart
 
-2. Clone este repositório:
-```bash
+### 2. Clone este repositório:
 git clone https://github.com/seu-usuario/dsgproject_manager.git
 
-3. Entre na pasta do projeto:
-```bash
+### 3. Entre na pasta do projeto:
 cd dsgproject_manager
 
-
-4. Execute:
-```bash
+### 4. Execute:
 dart dsgproject_manager.dart
 
 ---
