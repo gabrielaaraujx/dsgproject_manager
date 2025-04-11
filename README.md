@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+// dsgproject_manager
+Sistema para gerenciar os projetos, entregas, clientes e prazos.
+>>>>>>> 7e40f0fce0ad8166ba994cc33fb5ef9dc22ce4a7
